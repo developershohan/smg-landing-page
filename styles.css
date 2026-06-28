@@ -409,6 +409,7 @@ h4 {
   align-items: center;
   gap: 1.5rem;
   height: 72px;
+     justify-content: space-between;
 }
 .brand {
   display: flex;
